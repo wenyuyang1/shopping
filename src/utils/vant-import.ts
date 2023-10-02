@@ -1,0 +1,28 @@
+import Vue from "vue";
+import { Popup, Area, Form, Field, RadioGroup, Radio, AddressList, Checkbox, Dialog, ActionSheet, Button, Icon, Tabbar, TabbarItem, NavBar, Toast, Search, Swipe, SwipeItem, Lazyload, Grid, GridItem, Image, Tab, Tabs, Rate } from "vant";
+Vue.use(Button);
+Vue.use(Area);
+Vue.use(Popup);
+Vue.use(Form);
+Vue.use(Field);
+Vue.use(RadioGroup)
+Vue.use(Radio);
+Vue.use(AddressList);
+Vue.use(Dialog);
+Vue.use(Checkbox);
+Vue.use(Icon);
+Vue.use(ActionSheet);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(NavBar);
+Vue.use(Search);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Tabs);
+Vue.use(Rate);
+Vue.use(Tab);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Image);
+Vue.use(Lazyload);
+Vue.use(Toast);
